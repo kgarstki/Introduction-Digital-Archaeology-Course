@@ -1,4 +1,4 @@
-# Introduction-Digital-Archaeology-Course
+# Digital Archaeology and Data Reuse
 
 As social science disciplines increasingly move towards reliance on digital datasets for recording, research, accessibility, and archiving, it is now incumbent upon developing scholars to be familiar with the ways in which digital data can used, and how they are impacting research practices. This course provides students with a space to develop their digital literacy in archaeological contexts. We use a combination of lecture, discussions, and computer work to engage students in ways to create, manage, combine, and reuse archaeological data, while also confronting emerging issues in the field related to the increased use of digital technologies: data accuracy, data ethics, ownership, open data, public engagement, ‘big data.’ There are no expectations of a coding or data analysis background - this course is about exploration and experimentation. Students are not expected to emerge from this course with a complete knowledge of how to perform complex analyses on digital datasets – rather, this course will instill an underlying framework for how to think about archaeology and the data that archaeologists produce. It will foster an understanding of the principles that are beginning to guide archaeological research in the 21st century.
 
@@ -8,7 +8,7 @@ This course is funded by the Alexandria Archive Institute (AAI), a 501(c)(3) non
 Following the completion of this course, students will:
 - Be able to access and collect data from open sources.
 - Know the basics of data management and curation.
-Have knowledge of the methods for utilizing, visualizing, and performing analyses on digital data.
-Be able to knowledgeably assess published digital archaeological datasets.
-Know the different techniques for capturing 3D data and disseminating those data.
-Be familiar with the broad discussions in archaeology surrounding the use of digital technologies and be able to engage productively in them.
+- Have knowledge of the methods for utilizing, visualizing, and performing analyses on digital data.
+- Be able to knowledgeably assess published digital archaeological datasets.
+- Know the different techniques for capturing 3D data and disseminating those data.
+- Be familiar with the broad discussions in archaeology surrounding the use of digital technologies and be able to engage productively in them.
