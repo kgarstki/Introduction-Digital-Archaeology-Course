@@ -12,3 +12,12 @@ Following the completion of this course, students will:
 - Be able to knowledgeably assess published digital archaeological datasets.
 - Know the different techniques for capturing 3D data and disseminating those data.
 - Be familiar with the broad discussions in archaeology surrounding the use of digital technologies and be able to engage productively in them.
+
+## Class Activities
+You can access the exercises used for this class in their designated GitHub repos. 
+- [Introduction to GitHub, Markdown, and Jupyter Notebooks.](https://github.com/kgarstki/ANTH-641_Week-2-Exercises) 
+- [Accessing open access data, cleaning data.](https://github.com/kgarstki/ANTH-641_Week-4-Exercises)
+- [Extracting data from PDFs.](https://github.com/kgarstki/ANTH-641_Week-6_Exercise-1)
+- [Using APIs, Open Context.](https://github.com/kgarstki/open-context-jupyter)
+- [Using APIs, PAS.](https://github.com/kgarstki/notebooks-archdata)
+
