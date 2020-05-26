@@ -20,4 +20,7 @@ You can access the exercises used for this class in their designated GitHub repo
 - [Extracting data from PDFs.](https://github.com/kgarstki/ANTH-641_Week-6_Exercise-1)
 - [Using APIs, Open Context.](https://github.com/kgarstki/open-context-jupyter)
 - [Using APIs, PAS.](https://github.com/kgarstki/notebooks-archdata)
+- [Basic archaeological stats using R.](https://github.com/kgarstki/ANTH-641_Stats-with-R)
+- [Data visualization.](https://github.com/kgarstki/ANTH-641-Week-9)
+- [Webmapping and public-facing geospatial data.](https://github.com/kgarstki/ANTH_641-Week-10)
 
